@@ -72,7 +72,7 @@ Jangan lupa untuk join ke channel Telegram saya yang berisi seputar airdrop dan 
   <li>pip install requests colorama</li>
   <li>lalu jalankan taptether.py</li>
 </ul>
-
+<strong>Untuk android cara copynya pake go keyboard > select all > copy</strong>
 
 
 
