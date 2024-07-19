@@ -20,6 +20,7 @@ Channel Telegram : <a href="https://t.me/airdrop_ea"> Disini </a>
   <li>Bisa juga untuk banyak akun , tinggal paste <strong>tgWebAppPlatform</strong> di <strong>session.txt</strong> menggunakan baris baru </li>
   <li><img src="https://i.ibb.co.com/37Dd9tb/Screenshot-2024-07-19-185202.png" width="650"/></li>
   <li>Lalu jalankan taptether.py di cmd / vps kalian</li>
+  <li><img src="https://i.ibb.co.com/zRMxmRc/Screenshot-2024-07-19-202606.png" width="200px"></li>
 </ul>
 
 <h1>Fitur</h1>
